@@ -1,5 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Content
+
+// Features
+// Pages
+// - Landing page (Create a meeting, Enter a code) \*
+// - Sign up/Login page
+// - Lobby page
+// - Real-time meeting page
+
+// - Authentication
+// - Joining a meeting with a room id
+// - Starting an instant meeting functionality
+// - Real-time meeting room (call lobby)
+// - Screen sharing
+// - Chatting functionality
+
 ## Getting Started
 
 First, run the development server:
